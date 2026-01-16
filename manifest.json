@@ -1,0 +1,16 @@
+{
+  "name": "我的記帳本",
+  "short_name": "記帳本",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#6a11cb",
+  "description": "個人專屬記帳工具",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
